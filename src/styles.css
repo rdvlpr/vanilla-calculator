@@ -75,3 +75,15 @@ form .display input {
   color: #243010;
   background: #cad593;
 }
+
+div .signature {
+  height: 2rem;
+  position: relative;
+  bottom: 100px;
+  font-size: 14px;
+}
+
+a {
+  color: #0574ff;
+  text-decoration: none;
+}
