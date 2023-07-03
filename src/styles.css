@@ -54,7 +54,24 @@ form .display input {
   border-radius: 50%;
 }
 
+.calculator form input.all-clear,
+.calculator form input.delete {
+  background: #f79824;
+  color: #ffffff;
+}
+
+.calculator form input.operation {
+  background-color: #87a330;
+}
+
 .calculator form input.equal-button {
+  color: #243010;
+  background-color: #cad593;
   width: 145px;
   border-radius: 50px;
+}
+
+.calculator form input.decimal {
+  color: #243010;
+  background: #cad593;
 }
